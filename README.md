@@ -1,16 +1,3 @@
 # flutter_ui_login_logout_email
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![flutter ui login logout email](https://user-images.githubusercontent.com/52483128/209457200-5016db85-0249-4d8a-843a-d8b3454a730d.png)
