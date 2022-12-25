@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "115834614541",
+    "project_id": "authtutorial-60a9d",
+    "storage_bucket": "authtutorial-60a9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115834614541:android:12856ab1d10ea190737644",
+        "android_client_info": {
+          "package_name": "com.example.flutter_ui_login_logout_email"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115834614541-hi0hv72vhsab2715pai30ku3h0n76tu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPzTNNsQs-kf-PIKyABEqma-T110ZNc38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115834614541-hi0hv72vhsab2715pai30ku3h0n76tu5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "115834614541-5gip4ovn2oki29mnb622ifris5o910ca.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterUiLoginLogoutEmail.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
